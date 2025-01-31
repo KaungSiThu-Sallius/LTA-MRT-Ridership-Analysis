@@ -37,3 +37,5 @@ This project analyzes Singapore's MRT ridership data to identify trends, peak pe
 ## ❓ Business Questions  
 
 ### 1️⃣ **Find the month-over-month ridership growth for each station.**  
+![image](https://github.com/user-attachments/assets/38eddbc5-15c9-4267-9bac-2cee6ccc1a22)
+
